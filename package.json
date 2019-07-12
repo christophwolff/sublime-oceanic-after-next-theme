@@ -1,0 +1,21 @@
+{
+    "name": "sublime-oceanic-after-next-theme",
+    "displayName": "Sublime Oceanic After Next Theme",
+    "description": "A Theme with a light sidebar",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sublime Oceanic After Next Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sublime Oceanic After Next Theme-color-theme.json"
+            }
+        ]
+    }
+}
