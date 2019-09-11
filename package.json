@@ -3,11 +3,20 @@
     "displayName": "Sublime Oceanic After Next Theme",
     "description": "A Theme with a light sidebar",
     "version": "0.0.1",
+    "publisher": "christophwolff",
     "engines": {
         "vscode": "^1.36.0"
     },
     "categories": [
         "Themes"
+    ],
+    "icon": "images/icon.png",
+    "keywords": [
+        "oceanic",
+        "sublime",
+        "sidebar",
+        "dark",
+        "light"
     ],
     "contributes": {
         "themes": [
@@ -17,5 +26,15 @@
                 "path": "./themes/Sublime Oceanic After Next Theme-color-theme.json"
             }
         ]
+    },
+    "maintainers": [
+        "Christoph Wolff <chris1one@gmail.com>"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/christophwolff/sublime-oceanic-after-next-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/christophwolff/sublime-oceanic-after-next-theme/issues"
     }
 }

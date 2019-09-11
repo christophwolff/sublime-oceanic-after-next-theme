@@ -1,13 +1,20 @@
-# README
-## This is the README for your extension "sublime-oceanic-after-next-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Sublime Oceanic After Next Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+I tried to recreate the default mariana theme from sublime with a material color scheme.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
+
+1. Open Extensions on the sidebar
+2. Search for "Sublime Oceanic After Next Theme"
+3. Install it
+4. Reload the editor
+5. Press `⌘K + ⌘T`
+6. Pick "Sublime Oceanic After Next Theme" one from the list and hit enter
+7. Done
+
+## Screenshot
+
+![Sublime Oceanic After Next Theme](https://user-images.githubusercontent.com/2046613/64705499-54969c80-d4b0-11e9-9138-6d358cfa9e02.png)
+
 
 **Enjoy!**
